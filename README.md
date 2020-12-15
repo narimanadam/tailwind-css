@@ -4,7 +4,8 @@
 
 
 # Tailwind CSS
-This is the tutorial implementation of tailwind css from the Net Ninja:
+This is the tutorial implementation of tailwind css from the Net Ninja: 
+
 https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 
 
